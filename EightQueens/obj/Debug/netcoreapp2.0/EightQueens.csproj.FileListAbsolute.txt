@@ -1,0 +1,8 @@
+/home/simon/dev/challenges/challenges/EightQueens/bin/Debug/netcoreapp2.0/EightQueens.deps.json
+/home/simon/dev/challenges/challenges/EightQueens/bin/Debug/netcoreapp2.0/EightQueens.dll
+/home/simon/dev/challenges/challenges/EightQueens/bin/Debug/netcoreapp2.0/EightQueens.pdb
+/home/simon/dev/challenges/challenges/EightQueens/obj/Debug/netcoreapp2.0/EightQueens.csproj.CoreCompileInputs.cache
+/home/simon/dev/challenges/challenges/EightQueens/obj/Debug/netcoreapp2.0/EightQueens.AssemblyInfoInputs.cache
+/home/simon/dev/challenges/challenges/EightQueens/obj/Debug/netcoreapp2.0/EightQueens.AssemblyInfo.cs
+/home/simon/dev/challenges/challenges/EightQueens/obj/Debug/netcoreapp2.0/EightQueens.dll
+/home/simon/dev/challenges/challenges/EightQueens/obj/Debug/netcoreapp2.0/EightQueens.pdb

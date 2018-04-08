@@ -1,0 +1,16 @@
+/home/simon/dev/challenges/challenges/ChequeWriterTests/bin/Debug/netcoreapp2.0/ChequeWriterTests.deps.json
+/home/simon/dev/challenges/challenges/ChequeWriterTests/bin/Debug/netcoreapp2.0/ChequeWriterTests.runtimeconfig.json
+/home/simon/dev/challenges/challenges/ChequeWriterTests/bin/Debug/netcoreapp2.0/ChequeWriterTests.runtimeconfig.dev.json
+/home/simon/dev/challenges/challenges/ChequeWriterTests/bin/Debug/netcoreapp2.0/ChequeWriterTests.dll
+/home/simon/dev/challenges/challenges/ChequeWriterTests/bin/Debug/netcoreapp2.0/ChequeWriterTests.pdb
+/home/simon/dev/challenges/challenges/ChequeWriterTests/bin/Debug/netcoreapp2.0/ChequeWriter.dll
+/home/simon/dev/challenges/challenges/ChequeWriterTests/bin/Debug/netcoreapp2.0/ChequeWriter.pdb
+/home/simon/dev/challenges/challenges/ChequeWriterTests/obj/Debug/netcoreapp2.0/ChequeWriterTests.csproj.CoreCompileInputs.cache
+/home/simon/dev/challenges/challenges/ChequeWriterTests/obj/Debug/netcoreapp2.0/ChequeWriterTests.AssemblyInfoInputs.cache
+/home/simon/dev/challenges/challenges/ChequeWriterTests/obj/Debug/netcoreapp2.0/ChequeWriterTests.AssemblyInfo.cs
+/home/simon/dev/challenges/challenges/ChequeWriterTests/obj/Debug/netcoreapp2.0/ChequeWriterTests.dll
+/home/simon/dev/challenges/challenges/ChequeWriterTests/obj/Debug/netcoreapp2.0/ChequeWriterTests.pdb
+/home/simon/dev/challenges/challenges/ChequeWriterTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/home/simon/dev/challenges/challenges/ChequeWriterTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/home/simon/dev/challenges/challenges/ChequeWriterTests/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/home/simon/dev/challenges/challenges/ChequeWriterTests/bin/Debug/netcoreapp2.0/Mono.Cecil.dll

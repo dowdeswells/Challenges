@@ -1,0 +1,10 @@
+/home/simon/dev/challenges/challenges/CoderByte/bin/Debug/netcoreapp2.0/CoderByte.deps.json
+/home/simon/dev/challenges/challenges/CoderByte/bin/Debug/netcoreapp2.0/CoderByte.runtimeconfig.json
+/home/simon/dev/challenges/challenges/CoderByte/bin/Debug/netcoreapp2.0/CoderByte.runtimeconfig.dev.json
+/home/simon/dev/challenges/challenges/CoderByte/bin/Debug/netcoreapp2.0/CoderByte.dll
+/home/simon/dev/challenges/challenges/CoderByte/bin/Debug/netcoreapp2.0/CoderByte.pdb
+/home/simon/dev/challenges/challenges/CoderByte/obj/Debug/netcoreapp2.0/CoderByte.csproj.CoreCompileInputs.cache
+/home/simon/dev/challenges/challenges/CoderByte/obj/Debug/netcoreapp2.0/CoderByte.AssemblyInfoInputs.cache
+/home/simon/dev/challenges/challenges/CoderByte/obj/Debug/netcoreapp2.0/CoderByte.AssemblyInfo.cs
+/home/simon/dev/challenges/challenges/CoderByte/obj/Debug/netcoreapp2.0/CoderByte.dll
+/home/simon/dev/challenges/challenges/CoderByte/obj/Debug/netcoreapp2.0/CoderByte.pdb

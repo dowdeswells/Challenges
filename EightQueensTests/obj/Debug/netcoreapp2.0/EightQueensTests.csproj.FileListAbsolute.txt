@@ -1,0 +1,15 @@
+/home/simon/dev/challenges/challenges/EightQueensTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/simon/dev/challenges/challenges/EightQueensTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/simon/dev/challenges/challenges/EightQueensTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/simon/dev/challenges/challenges/EightQueensTests/bin/Debug/netcoreapp2.0/EightQueensTests.deps.json
+/home/simon/dev/challenges/challenges/EightQueensTests/bin/Debug/netcoreapp2.0/EightQueensTests.runtimeconfig.json
+/home/simon/dev/challenges/challenges/EightQueensTests/bin/Debug/netcoreapp2.0/EightQueensTests.runtimeconfig.dev.json
+/home/simon/dev/challenges/challenges/EightQueensTests/bin/Debug/netcoreapp2.0/EightQueensTests.dll
+/home/simon/dev/challenges/challenges/EightQueensTests/bin/Debug/netcoreapp2.0/EightQueensTests.pdb
+/home/simon/dev/challenges/challenges/EightQueensTests/bin/Debug/netcoreapp2.0/EightQueens.dll
+/home/simon/dev/challenges/challenges/EightQueensTests/bin/Debug/netcoreapp2.0/EightQueens.pdb
+/home/simon/dev/challenges/challenges/EightQueensTests/obj/Debug/netcoreapp2.0/EightQueensTests.csproj.CoreCompileInputs.cache
+/home/simon/dev/challenges/challenges/EightQueensTests/obj/Debug/netcoreapp2.0/EightQueensTests.AssemblyInfoInputs.cache
+/home/simon/dev/challenges/challenges/EightQueensTests/obj/Debug/netcoreapp2.0/EightQueensTests.AssemblyInfo.cs
+/home/simon/dev/challenges/challenges/EightQueensTests/obj/Debug/netcoreapp2.0/EightQueensTests.dll
+/home/simon/dev/challenges/challenges/EightQueensTests/obj/Debug/netcoreapp2.0/EightQueensTests.pdb

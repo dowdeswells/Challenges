@@ -1,0 +1,8 @@
+/home/simon/dev/challenges/challenges/ChequeWriter/bin/Debug/netcoreapp2.0/ChequeWriter.deps.json
+/home/simon/dev/challenges/challenges/ChequeWriter/bin/Debug/netcoreapp2.0/ChequeWriter.dll
+/home/simon/dev/challenges/challenges/ChequeWriter/bin/Debug/netcoreapp2.0/ChequeWriter.pdb
+/home/simon/dev/challenges/challenges/ChequeWriter/obj/Debug/netcoreapp2.0/ChequeWriter.csproj.CoreCompileInputs.cache
+/home/simon/dev/challenges/challenges/ChequeWriter/obj/Debug/netcoreapp2.0/ChequeWriter.AssemblyInfoInputs.cache
+/home/simon/dev/challenges/challenges/ChequeWriter/obj/Debug/netcoreapp2.0/ChequeWriter.AssemblyInfo.cs
+/home/simon/dev/challenges/challenges/ChequeWriter/obj/Debug/netcoreapp2.0/ChequeWriter.dll
+/home/simon/dev/challenges/challenges/ChequeWriter/obj/Debug/netcoreapp2.0/ChequeWriter.pdb
