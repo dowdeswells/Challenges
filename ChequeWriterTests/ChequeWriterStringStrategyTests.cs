@@ -13,6 +13,7 @@ namespace ChequeWriterTests
         [TestCase("635000000000", "six hundred and thirty five billion dollars")]
         [TestCase("635482000000", "six hundred and thirty five billion four hundred and eighty two million dollars")]
         [TestCase("100000000000", "one hundred billion dollars")]
+        [TestCase("987654321234", "nine hundred and eighty seven billion, six hundred and fifty four million, three hundred and twenty one thousand two hundred and thirty four dollars")]
         [TestCase("1000000000", "one billion dollars")]
         public void Writer_WholeNumbers_ProducesExpected(string input, string expectedOutput)
         {
